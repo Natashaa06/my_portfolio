@@ -1,2 +1,2 @@
 # my_portfolio
-This  my first web dev project on a Portfolio Website using HTML &amp; CSS 
+This  my first web dev project on a Portfolio Website using HTML  
